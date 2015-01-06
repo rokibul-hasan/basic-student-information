@@ -1,0 +1,29 @@
+body{
+background:;
+}
+aside{
+    border-left: 1px solid gray;
+}
+aside>div{
+    
+    min-height: 200px;
+}
+.login-thumbnail{
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.table-line-hight td{
+	padding:5px;
+}
+.form-center{
+	margin:0 auto;
+}
+.custome-hover li :hover{
+ color:#000;
+}
+.nav-hover:hover{
+  background-color: skyblue;
+  color:green;
+  text-transform: uppercase;
+}
